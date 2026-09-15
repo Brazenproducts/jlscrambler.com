@@ -2,35 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jlscrambler.com/</loc>
-    <lastmod>2026-07-22</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jlscrambler.com/about.html</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jlscrambler.com/contact.html</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jlscrambler.com/best-jlscrambler-2026.html</loc>
-    <lastmod>2026-06-26</lastmod>
+    <loc>https://jlscrambler.com/privacy.html</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.3</priority>
   </url>
-  <url>
-    <loc>https://jlscrambler.com/buying-guide-jlscrambler-2026.html</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url><loc>https://jlscrambler.com/blog/best-jeep-wrangler-seat-covers.html</loc><lastmod>2026-08-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://jlscrambler.com/blog/custom-fit-vs-universal-jeep-seat-covers.html</loc><lastmod>2026-08-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://jlscrambler.com/jlscrambler-quality-vs-marketing.html</loc><lastmod>2026-09-14</lastmod></url>
 </urlset>
